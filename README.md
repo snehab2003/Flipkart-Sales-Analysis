@@ -27,4 +27,5 @@ This project analyzes Flipkart sales data using SQL, Excel, and Tableau to uncov
   - Product, Category, Subcategory
   - Sale Price, Quantity, Shipping Fee
   - Customer ID, Order ID, Delivery Status
+  - Total Revenue,Total Unit Cost,Profit
 - Cleaned and filtered using Excel before analysis
