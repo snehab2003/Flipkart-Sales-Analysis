@@ -20,7 +20,7 @@ This project analyzes Flipkart sales data using SQL, Excel, and Tableau to uncov
 - ✅ Total Revenue, Profit, Orders (KPI Cards)
 - ✅ Top Products & Subcategories 
 - ✅ Revenue by Category
-- 
+ 
 ## 🗂️ Dataset Summary
 
 - **Columns**:
