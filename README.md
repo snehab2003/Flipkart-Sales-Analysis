@@ -8,7 +8,7 @@ This project analyzes Flipkart sales data using SQL, Excel, and Tableau to uncov
   - SQL (BigQuery)
   - Microsoft Excel
   - Tableau Public
-  - 
+    
 ## 📌 Objectives
 
 - Identify top-selling products and subcategories
