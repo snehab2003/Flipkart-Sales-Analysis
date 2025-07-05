@@ -29,21 +29,32 @@ This project analyzes Flipkart sales data using SQL, Excel, and Tableau to uncov
   - Customer ID, Order ID, Delivery Status
   - Total Revenue,Total Unit Cost,Profit
 - Cleaned and filtered using Excel before analysis
+## 📊 Business Insights
 
-## Business Insights
+1. *Electronics Category – Poor Revenue Due to Returns*  
+   *Observation*: Electronics generate the least revenue among categories.  
+   *Root Cause*: High return rates due to defective products and poor packaging or delivery.  
+   *Recommendation*:  
+   - Strengthen quality assurance and packaging standards.  
+   - Improve delivery handling procedures.  
 
--**IMPROPER MANAGEMENT OF ELECTRONICS ORDERS**
-- Electronics produce the least Revenue
--	Most of the products are returned due to quality or defective issue
--	The defective and quality problem is due to the carelessness of packaging and delivery methods
--	More quality assurance should done in electronics packing section
--**DIGITAL CAMERA PRODUCTION**
-  -	Found that digital camera is in one of the top selling subcategory.
-  -It is in the section electronics.
--	People are interested to buy digital cameras on online.
--	Introduce new brands to customer and their reviews to build more trust and purchasing.
--**MOBILE PHONES PRODUCTION**
-  -	Mobile phones under top selling subcategory
--	Can more discounts and offers can generate more sales
-  -	More sales more revenue
+---
+
+2. *Digital Camera – High Demand, Low Brand Trust*  
+   *Observation*: Digital cameras are a top-selling subcategory in electronics.  
+   *Customer Behavior*: Users show interest in buying online but hesitate due to limited brand trust.  
+   *Recommendation*:  
+   - Promote trusted brands with positive reviews.  
+   - Offer warranty and customer testimonials to build confidence.  
+
+---
+
+3. *Mobile Phones – Strong Sales Potential*  
+   *Observation*: Mobile phones are among the top-selling items.  
+   *Opportunity*: High potential to boost revenue with targeted promotions.  
+   *Recommendation*:  
+   - Provide seasonal discounts and bundle offers.  
+   - Highlight popular features and user ratings to attract buyers.
+
+
 
