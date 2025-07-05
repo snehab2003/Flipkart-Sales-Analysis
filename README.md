@@ -33,17 +33,17 @@ This project analyzes Flipkart sales data using SQL, Excel, and Tableau to uncov
 ## Business Insights
 
 -**IMPROPER MANAGEMENT OF ELECTRONICS ORDERS**
--•	Electronics produce the least Revenue
--•	Most of the products are returned due to quality or defective issue
--•	The defective and quality problem is due to the carelessness of packaging and delivery methods
--•	More quality assurance should done in electronics packing section
+- Electronics produce the least Revenue
+-	Most of the products are returned due to quality or defective issue
+-	The defective and quality problem is due to the carelessness of packaging and delivery methods
+-	More quality assurance should done in electronics packing section
 -**DIGITAL CAMERA PRODUCTION**
--•	Found that digital camera is in one of the top selling subcategory.
--•	It is in the section electronics.
--•	People are interested to buy digital cameras on online.
--•	Introduce new brands to customer and their reviews to build more trust and purchasing.
+  -	Found that digital camera is in one of the top selling subcategory.
+  -It is in the section electronics.
+-	People are interested to buy digital cameras on online.
+-	Introduce new brands to customer and their reviews to build more trust and purchasing.
 -**MOBILE PHONES PRODUCTION**
--•	Mobile phones under top selling subcategory
--•	Can more discounts and offers can generate more sales
--•	More sales more revenue
+  -	Mobile phones under top selling subcategory
+-	Can more discounts and offers can generate more sales
+  -	More sales more revenue
 
